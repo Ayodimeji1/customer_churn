@@ -112,8 +112,8 @@ The **SHAP summary plot** below illustrates which features had the most influenc
 
 ## Contributors
 👤 **Your Name**  
-- GitHub: [yourusername](https://github.com/yourusername)  
-- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)  
+- GitHub: [yourusername](https://github.com/Ayodimeji1)  
+- LinkedIn: [Your Profile](https://linkedin.com/in/ayodimejikadri)  
 
 ## License
 This project is licensed under the **MIT License**.
