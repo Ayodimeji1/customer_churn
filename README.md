@@ -1,6 +1,8 @@
 # Customer Churn Prediction
 **A machine learning model to predict customer churn using various classification algorithms and SHAP explainability.**
 
+live link: https://huggingface.co/spaces/Ade1ola/customer_churn_prediction_v1/
+
 ![Churn Prediction](https://img.shields.io/badge/Customer%20Churn-ML%20Project-blue)
 
 ## Table of Contents
@@ -111,9 +113,8 @@ The **SHAP summary plot** below illustrates which features had the most influenc
 - **Experiment with deep learning** models like LSTMs for churn forecasting.
 
 ## Contributors
-👤 **Your Name**  
-- GitHub: [yourusername](https://github.com/yourusername)  
-- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)  
+👤 **Ayodimeji Kadri**   
+- LinkedIn: [Your Profile](https://linkedin.com/in/ayodimejikadri)  
 
 ## License
 This project is licensed under the **MIT License**.
